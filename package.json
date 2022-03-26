@@ -1,0 +1,11 @@
+{
+  "name": "grupo4-pdi-backend-master",
+  "version": "1.0.0",
+  "description": "Projeto Integrador",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo 04",
+  "license": "ISC"
+}
